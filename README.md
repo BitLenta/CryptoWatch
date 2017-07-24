@@ -10,4 +10,4 @@ ICO: это чистое мошенничество. Ни один проект,
 <b>Биржи:</b> единственные нормальные биржи это <a href="https://kraken.com">Kraken</a> (медленное и туповатое API) и <a href="https://bittrex.com">Bittrex</a> (лучшее API).
 
 Покупать BTC <b>за рубли переводом через онлайн-банки</b>: <a href="t.me/BTC_CHANGE_BOT?start=601635ssAffiliate">@BTC_CHANGE_BOT</a>
-Покупать BTC <b>дешевле всего за наличные USD</b>: <a href="t.me/BTCcodeBot">@BTCcodeBot</a>. 2000 пользоватей бота и все трейдеры Москвы.
+Покупать BTC <b>дешевле всего за наличные USD</b>: <a href="t.me/BTCcodeBot">@BTCcodeBot</a>. В боте 2000 пользоватей и <b>все трейдеры</b> Москвы.
