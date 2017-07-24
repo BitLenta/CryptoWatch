@@ -5,7 +5,7 @@
 
 <b>Кошелек:</b> <a href="https://bitpay.com">BitPay</a> / <a href="https://copay.io">Copay</a> только на <a href="https://appsto.re/ru/gLtHeb.i"><b>Apple iPhone</b></a>.
 
-ICO: это чистое мошенничество. Ни один проект, собравший денег, так и не сделал то, на что собирал.
+<b>ICO</b>: все ИКО - это чистое мошенничество. Ни один проект, собравший денег, так и не сделал то, на что собирал.
 
 <b>Биржи:</b> единственные нормальные биржи это <a href="https://kraken.com">Kraken</a> (медленное и туповатое API) и <a href="https://bittrex.com">Bittrex</a> (лучшее API).
 
